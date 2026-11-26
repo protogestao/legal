@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="pt-BR" data-version="4" data-effective-date="2026-11-25">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Proto Customers — Termos de Uso e Política de Privacidade</title>
+    <style>
+      :root {
+        --bg-color: #f4f6f8;
+        --container-bg: #ffffff;
+        --text-color: #334155;
+        --title-color: #1e293b;
+        --accent-blue: #3b82f6;
+        --light-blue: #eff6ff;
+        --border-color: #e2e8f0;
+        --text-muted: #64748b;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        line-height: 1.6;
+        margin: 0;
+        padding: 40px 20px;
+        display: flex;
+        justify-content: center;
+      }
+
+      .container {
+        max-width: 850px;
+        width: 100%;
+        background-color: var(--container-bg);
+        padding: 40px;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      }
+
+      h1 {
+        font-size: 24pt;
+        color: var(--title-color);
+        text-align: center;
+        margin-bottom: 5px;
+      }
+
+      .app-subtitle {
+        text-align: center;
+        color: var(--text-muted);
+        font-size: 11pt;
+        margin-bottom: 40px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      h2 {
+        font-size: 16pt;
+        color: var(--title-color);
+        border-bottom: 2px solid var(--border-color);
+        padding-bottom: 8px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+      }
+
+      h3 {
+        font-size: 12pt;
+        color: var(--title-color);
+        margin-top: 25px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 10.5pt;
+        margin-bottom: 15px;
+        text-align: justify;
+      }
+
+      ul {
+        margin-bottom: 15px;
+        padding-left: 20px;
+      }
+
+      li {
+        font-size: 10.5pt;
+        margin-bottom: 8px;
+        text-align: justify;
+      }
+
+      .update-date {
+        font-size: 9.5pt;
+        color: var(--text-muted);
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+
+      .highlight-box {
+        background-color: var(--light-blue);
+        border-left: 4px solid var(--accent-blue);
+        padding: 20px;
+        border-radius: 4px;
+        margin: 25px 0;
+      }
+
+      .highlight-box p {
+        margin-bottom: 0;
+        color: #1e3a8a;
+        font-weight: 500;
+      }
+
+      .highlight-box p + p {
+        margin-top: 12px;
+      }
+
+      footer {
+        margin-top: 60px;
+        border-top: 1px solid var(--border-color);
+        padding-top: 20px;
+        text-align: center;
+        font-size: 9pt;
+        color: var(--text-muted);
+      }
+
+      footer p {
+        text-align: center;
+        margin-bottom: 5px;
+      }
+
+      article + article {
+        margin-top: 60px;
+        padding-top: 40px;
+        border-top: 1px solid var(--border-color);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <article id="termos" data-title="Termos de Uso">
+        <h1>Termos de Uso</h1>
+        <div class="app-subtitle">Contrato de Licença de Uso de Software e Termos de Uso</div>
+
+        <h2>CONDIÇÕES GERAIS</h2>
+        <div class="update-date">Versão 4 — última atualização: 25 de novembro de 2026</div>
+
+        <p>Estes Termos regulam o uso do Proto Customers. Leia também a Política de Privacidade, que integra este documento. Ao marcar a opção de aceite, você declara que leu, entendeu e concorda com os dois documentos.</p>
+
+        <div class="highlight-box">
+          <p><strong>Importante:</strong> ao aceitar e continuar utilizando o Proto Customers, você concorda que seus dados sejam utilizados para melhorar o serviço e apresentar recomendações sobre funcionalidades e serviços. Não vendemos seus dados pessoais.</p>
+          <p>O envio de novidades e ofertas por e-mail ou telefone depende de uma escolha separada, opcional e que pode ser revogada a qualquer momento.</p>
+        </div>
+
+        <h3>1. O que é o Proto Customers</h3>
+        <p>O Proto Customers é um aplicativo para cadastrar clientes, acompanhar mensalidades por competência e registrar recebimentos. As informações exibidas dependem dos dados que você insere.</p>
+        <p>O Proto Customers não é instituição financeira, não intermedeia pagamentos, não guarda dinheiro e não presta consultoria financeira, contábil, tributária, jurídica ou de investimentos. As informações apresentadas têm caráter organizacional e informativo.</p>
+
+        <h3>2. Conta de acesso</h3>
+        <p>O acesso é feito por uma conta de autenticação. Você é responsável por manter o acesso à sua conta protegido, por não compartilhar suas credenciais e por todas as atividades realizadas na conta.</p>
+        <p>Você deve fornecer informações verdadeiras, completas e atualizadas. Nome, e-mail e telefone informados podem ser usados para contato sobre a conta, suporte, segurança e comunicações autorizadas, conforme a Política de Privacidade.</p>
+
+        <h3>3. Responsabilidade sobre os dados financeiros</h3>
+        <p>Você é responsável pelas informações que insere, incluindo dados cadastrais, valores, vencimentos, competências, recebimentos e demais registros. Confira os dados antes de tomar decisões financeiras.</p>
+        <p>O aplicativo não garante que um cálculo ou saldo esteja correto para uma situação concreta. Erros de preenchimento, datas incorretas, recebimentos não registrados ou informações incompletas podem produzir resultados diferentes da realidade.</p>
+        <p>Não insira dados pessoais de terceiros sem autorização ou base legal. O aplicativo não se destina ao tratamento de dados sensíveis, assim entendidos pela legislação aplicável, e você deve evitar inseri-los em campos livres.</p>
+
+        <h3>4. Uso permitido</h3>
+        <p>Você concorda em não:</p>
+        <ul>
+          <li>usar o aplicativo para fins ilícitos, fraudulentos ou que violem direitos de terceiros;</li>
+          <li>tentar acessar dados de outras pessoas, contornar a segurança ou explorar falhas;</li>
+          <li>copiar, vender, sublicenciar ou redistribuir o aplicativo sem autorização;</li>
+          <li>inserir conteúdo malicioso, automatizar acessos de forma abusiva ou prejudicar o funcionamento do serviço;</li>
+          <li>utilizar os registros ou recomendações como substitutos de orientação profissional habilitada.</li>
+        </ul>
+
+        <h3>5. Propriedade intelectual</h3>
+        <p>O nome, a marca, o design, os textos, o código e os demais elementos do Proto Customers pertencem aos seus responsáveis. Os dados e registros financeiros que você cria permanecem seus, e você concede apenas a permissão necessária para que o serviço funcione e sincronize suas informações.</p>
+
+        <h3>6. Disponibilidade e consulta offline</h3>
+        <p>O serviço pode ficar temporariamente indisponível por manutenção, falhas de conexão, indisponibilidade de terceiros ou outros fatores. Não garantimos funcionamento ininterrupto, disponibilidade offline ou atualização imediata dos dados.</p>
+        <p>Quando uma consulta offline estiver disponível, os valores podem estar desatualizados em relação aos dados mais recentes. Confirme as informações antes de tomar decisões e mantenha seus registros atualizados quando a conexão retornar.</p>
+
+        <h3>7. Segurança do aparelho e das credenciais</h3>
+        <p>A guarda e a segurança do aparelho, da conta de acesso e das credenciais são responsabilidade do usuário. Mantenha o aparelho protegido, use bloqueio de tela, não compartilhe sua conta e comunique imediatamente qualquer uso não autorizado.</p>
+        <p>Essa responsabilidade do usuário não exclui as obrigações legais do responsável pelo aplicativo em relação à proteção dos dados pessoais que trata.</p>
+
+        <h3>8. Limitação de responsabilidade</h3>
+        <p>Na máxima extensão permitida pela legislação aplicável, o Proto Customers e seus responsáveis não se responsabilizam por prejuízos decorrentes de mau uso, informações incorretas inseridas pelo usuário, decisões financeiras tomadas com base nos registros, indisponibilidade do serviço, perda de acesso à conta ou dados armazenados no aparelho sem a devida proteção.</p>
+        <p>Nada nestes Termos exclui responsabilidades que não possam ser legalmente excluídas, incluindo as previstas na LGPD e na legislação de defesa do consumidor.</p>
+
+        <h3>9. Comunicações</h3>
+        <p>Podemos enviar comunicações essenciais sobre a conta, segurança, suporte e funcionamento do serviço. Novidades, ofertas e comunicações promocionais por e-mail ou telefone dependem do consentimento separado previsto na Política de Privacidade.</p>
+        <p>Você pode revogar esse consentimento em Ajustes ou pelo canal de privacidade, sem impedir o uso das funções principais do aplicativo.</p>
+
+        <h3>10. Privacidade e LGPD</h3>
+        <p>O tratamento de dados pessoais é descrito na Política de Privacidade. Ela explica quais dados são tratados, para quais finalidades, com quem podem ser compartilhados, por quanto tempo são mantidos e como exercer os direitos previstos na Lei Geral de Proteção de Dados Pessoais (LGPD).</p>
+
+        <h3>11. Alterações e encerramento</h3>
+        <p>Podemos atualizar estes Termos e a Política de Privacidade. Mudanças materiais geram nova versão e exigem novo aceite antes da continuidade do uso. Você pode encerrar o uso e solicitar a desativação ou a exclusão da conta pelos canais indicados na Política de Privacidade.</p>
+
+        <h3>12. Contato</h3>
+        <p>Dúvidas sobre estes Termos: protofinancial@protogestao.com.</p>
+
+        <footer>
+          <p>&copy; 2026 Proto Customers. Todos os direitos reservados.</p>
+          <p>Canal de privacidade: protofinancial@protogestao.com</p>
+        </footer>
+      </article>
+
+      <article id="privacidade" data-title="Política de Privacidade">
+        <h1>Política de Privacidade</h1>
+        <div class="app-subtitle">Política de Privacidade e Proteção de Dados Pessoais</div>
+
+        <h2>DISPOSIÇÕES GERAIS</h2>
+        <div class="update-date">Versão 4 — última atualização: 25 de novembro de 2026</div>
+
+        <p>Esta Política explica quais dados o Proto Customers trata, por que trata, como usa, com quem compartilha, por quanto tempo mantém e como você pode exercer seus direitos. O tratamento segue a Lei Geral de Proteção de Dados Pessoais (LGPD) e a legislação aplicável.</p>
+
+        <div class="highlight-box">
+          <p><strong>Melhoria e recomendações:</strong> ao aceitar estes documentos e continuar utilizando o aplicativo, você concorda com o uso dos seus dados para melhorar o serviço e apresentar recomendações sobre funcionalidades e serviços. Não vendemos seus dados pessoais e não utilizamos o conteúdo dos seus registros financeiros para publicidade de terceiros.</p>
+          <p><strong>Novidades por e-mail e telefone:</strong> dependem de uma escolha separada no aceite ou em Ajustes. Recusar não impede o uso do aplicativo, e você pode revogar a qualquer momento.</p>
+        </div>
+
+        <h3>1. Quem é responsável</h3>
+        <p>O Proto Customers é o responsável pelo tratamento dos dados descritos nesta Política. O canal de privacidade é protofinancial@protogestao.com.</p>
+
+        <h3>2. Dados que tratamos</h3>
+        <ul>
+          <li><strong>Dados de conta:</strong> nome, e-mail, telefone informado, foto de perfil quando disponibilizada pela conta de acesso e identificação da conta.</li>
+          <li><strong>Dados de clientes:</strong> nome, endereço, telefone, tipo de plano, CPF e e-mail opcionais, observações, mensalidades, competências, vencimentos e histórico de recebimentos.</li>
+          <li><strong>Dados de uso:</strong> telas acessadas, funcionalidades utilizadas, preferências, eventos de uso e informações sobre falhas, sem copiar o conteúdo dos seus registros financeiros para essas finalidades.</li>
+          <li><strong>Consentimentos:</strong> versão dos documentos aceita, data do aceite, escolha sobre comunicações e demais manifestações registradas.</li>
+          <li><strong>Comunicações:</strong> mensagens trocadas com o suporte e registros necessários ao atendimento.</li>
+        </ul>
+
+        <h3>3. Para que usamos os dados e quais bases legais aplicamos</h3>
+        <ul>
+          <li><strong>Prestar o serviço:</strong> criar e manter a conta, gerenciar cadastros, acompanhar mensalidades, registrar recebimentos e sincronizar seus dados. Base legal: execução de contrato.</li>
+          <li><strong>Segurança e prevenção a fraudes:</strong> proteger a conta, autenticar acessos, investigar incidentes e coibir uso indevido. Base legal: legítimo interesse e cumprimento de obrigação legal.</li>
+          <li><strong>Suporte:</strong> responder dúvidas, solicitações e problemas. Base legal: execução de contrato e legítimo interesse.</li>
+          <li><strong>Melhorar o serviço e apresentar recomendações:</strong> entender como o aplicativo é utilizado, corrigir problemas e sugerir funcionalidades e serviços relevantes. Base legal: consentimento manifestado no aceite.</li>
+          <li><strong>Novidades e ofertas por e-mail ou telefone:</strong> enviar comunicações promocionais sobre nossos serviços. Base legal: consentimento específico, separado e revogável.</li>
+          <li><strong>Cumprir obrigações legais e exercer direitos:</strong> atender exigências legais, regulatórias, judiciais ou administrativas. Base legal: obrigação legal e exercício regular de direitos.</li>
+        </ul>
+
+        <h3>4. E-mail e telefone</h3>
+        <p>Seu e-mail é usado para autenticação, comunicações essenciais da conta, segurança e suporte. Seu telefone, quando informado, pode ser usado para contato sobre a conta, suporte e, somente com consentimento separado, para novidades e ofertas sobre nossos serviços.</p>
+        <p>Você pode atualizar, corrigir ou solicitar a remoção desses dados em Ajustes, quando disponível, ou pelo canal de privacidade. O telefone informado não é apresentado como verificado enquanto não houver um processo de verificação.</p>
+
+        <h3>5. Compartilhamento</h3>
+        <p>Não vendemos seus dados pessoais. Podemos compartilhar dados com prestadores de serviços que apoiam autenticação, armazenamento, segurança, suporte, análise de uso e funcionamento do aplicativo, sempre limitados às finalidades descritas e a instruções contratuais de proteção.</p>
+        <p>Também podemos compartilhar dados com autoridades quando exigido por lei, ordem judicial ou procedimento administrativo, ou com profissionais estritamente necessários para proteger direitos e segurança. Não compartilhamos seus registros financeiros para publicidade de terceiros.</p>
+
+        <h3>6. Transferência internacional</h3>
+        <p>Alguns prestadores podem tratar dados fora do Brasil. Quando isso ocorrer, adotamos medidas e mecanismos compatíveis com a LGPD para proteger os dados e limitar o tratamento às finalidades desta Política.</p>
+
+        <h3>7. Retenção</h3>
+        <p>Mantemos os dados enquanto a conta estiver ativa e pelo tempo necessário para prestar o serviço, cumprir obrigações legais, resguardar direitos e comprovar consentimentos. Ao desativar a conta, o acesso é bloqueado imediatamente e os dados pessoais e financeiros permanecem armazenados, ressalvadas as hipóteses de retenção previstas em lei.</p>
+        <p>A remoção física dos dados pode ser solicitada pelo canal de privacidade, observadas as obrigações legais de retenção.</p>
+        <p>Registros de aceite e consentimento podem ser mantidos pelo prazo necessário para comprovar a manifestação e cumprir obrigações legais.</p>
+
+        <h3>8. Segurança e dados no aparelho</h3>
+        <p>Adotamos medidas de segurança para proteger os dados contra acesso não autorizado, perda, alteração ou divulgação indevida. Nenhum sistema é totalmente imune a incidentes; comunicaremos incidentes relevantes conforme a legislação aplicável.</p>
+        <p>A guarda e a segurança do aparelho, da conta de acesso e das credenciais são responsabilidade do usuário. Dados mantidos no aparelho podem ficar acessíveis a quem tiver acesso físico ou às credenciais do dispositivo. Proteja o aparelho e não compartilhe sua conta. Essa responsabilidade não exclui as obrigações legais do responsável pelo aplicativo.</p>
+
+        <h3>9. Seus direitos</h3>
+        <p>Nos termos da LGPD, você pode solicitar:</p>
+        <ul>
+          <li>confirmação da existência de tratamento;</li>
+          <li>acesso aos dados;</li>
+          <li>correção de dados incompletos, inexatos ou desatualizados;</li>
+          <li>anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade;</li>
+          <li>portabilidade, quando aplicável;</li>
+          <li>informação sobre compartilhamento de dados;</li>
+          <li>revogação do consentimento;</li>
+          <li>oposição a tratamentos baseados em legítimo interesse, quando cabível.</li>
+        </ul>
+        <p>Use os canais de privacidade ou os recursos de Ajustes disponíveis. Você também pode apresentar reclamação à Autoridade Nacional de Proteção de Dados (ANPD).</p>
+
+        <h3>10. Desativação e exclusão da conta</h3>
+        <p>A desativação da conta pode ser feita em Ajustes. Ela desativa a identidade compartilhada pelos aplicativos da família Proto e bloqueia o acesso. O perfil, as preferências e os dados cadastrados permanecem armazenados.</p>
+        <p>Para tratar da desativação, entre em contato pelo canal de privacidade. Para solicitar a remoção física dos dados, incluindo perfil e dados de clientes, use o canal de privacidade protofinancial@protogestao.com. A remoção observa obrigações legais de retenção e pode exigir a confirmação da titularidade da conta.</p>
+        <p>Se você não conseguir acessar o aplicativo, use o canal de privacidade para solicitar a desativação.</p>
+
+        <h3>11. Menores</h3>
+        <p>O aplicativo não é destinado a menores de 18 anos sem supervisão de responsável legal. Se identificarmos uso não autorizado, podemos adotar medidas para proteger os dados e encerrar o acesso.</p>
+
+        <h3>12. Alterações desta Política</h3>
+        <p>Mudanças materiais nesta Política geram nova versão e exigem novo aceite antes do uso das áreas protegidas. A versão e a data de vigência são exibidas no próprio documento.</p>
+
+        <h3>13. Contato</h3>
+        <p>Privacidade: protofinancial@protogestao.com.</p>
+
+        <footer>
+          <p>&copy; 2026 Proto Customers. Todos os direitos reservados.</p>
+          <p>Canal de privacidade: protofinancial@protogestao.com</p>
+        </footer>
+      </article>
+    </div>
+  </body>
+</html>
